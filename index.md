@@ -1,4 +1,4 @@
-<img src="https://github.com/TETrandafir/TETrandafir.github.io/blob/main/Teodora%20Trandafir%20Ee1579%20Bioinformatica.jpg" width="20%"/>
+<img src="Teodora%20Trandafir%20Ee1579%20Bioinformatica.jpg" width="20%"/>
 
 ### About Me
 
